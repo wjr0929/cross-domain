@@ -1,0 +1,3 @@
+跨域解决方法
+1：后台设置  header('Access-Control-Allow-Origin:*')	俗称 CORS
+2：用node.js 的express 和 http 模块
